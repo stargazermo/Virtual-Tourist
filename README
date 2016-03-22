@@ -1,3 +1,7 @@
 This project is written in Swift 2.0.
 
+This ia an app that downloads and stores images from Flickr. 
+The app allows users to drop pins on a map, as if they were stops on a tour. 
+Users then are able to download pictures for the location and persist both the pictures, and the association of the pictures with the pin.
+
 
